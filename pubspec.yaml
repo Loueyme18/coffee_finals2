@@ -1,0 +1,50 @@
+name: coffee_finals2
+description: A new Flutter project for your coffee app.
+
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/espresso.png
+    - assets/images/okinawa.png
+    - assets/images/matcha.png
+    - assets/images/banana_bread.png
+    - assets/images/garlic_bread.png
+    - assets/images/vanilla.png
+    - assets/images/cappuccino.png
+    - assets/images/choco.png
+    - assets/images/blueberry.png
+    - assets/images/strawberry.png
+    - assets/images/2am_coffee_logo.png
+
+  fonts:
+    - family: Fraunces
+      fonts:
+        - asset: assets/fonts/Fraunces_72pt_Soft-Regular.ttf
+        - asset: assets/fonts/Fraunces_72pt_Soft-Bold.ttf
+          weight: 700
+    - family: MerriweatherSans
+      fonts:
+        - asset: assets/fonts/MerriweatherSans-Regular.ttf
+        - asset: assets/fonts/MerriweatherSans-Bold.ttf
+          weight: 700
+
