@@ -36,13 +36,19 @@ Users can browse drinks, add favorites, manage their cart, and customize setting
 👩‍🎓 Student Information
 
 Name: Louise Angel Palulan
+
 Student ID: 423002600
+
 Course: PC16 Mobile Development
 
 Name: Hikherrizy Moran
+
 Student ID: 423002075
+
 Course: PC16 Mobile Development
 
-Name: Louise Angel Palulan
+Name: Raymond Tandog
+
 Student ID: 423001667
+
 Course: PC16 Mobile Development
