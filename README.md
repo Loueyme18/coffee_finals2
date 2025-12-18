@@ -1,16 +1,47 @@
-# coffee_finals2
+Project title: 2AM Coffee Co.
 
-A new Flutter project.
+a Flutter-based mobile application that simulates a cozy coffee shop experience.  
+Users can browse drinks, add favorites, manage their cart, and customize settings.
 
-## Getting Started
+🔄 Side-by-Side Comparison
 
-This project is a starting point for a Flutter application.
+| FlutterFlow Prototype | Native Flutter App |
+|-----------------------|--------------------|
+| ![FlutterFlow Screenshot](https://img.sanishtech.com/u/c6f65083f8f3d8f6f2e29abdba7cfb9c.png) | ![Flutter Screenshot](https://img.sanishtech.com/u/60e29e908dfedb739edccc1333874042.png) |
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🏠 **Home Page**: Greeting, search bar, and filter tabs (Hot Coffee, Ice Coffee, Milk Tea, Fruit Tea, Breads).
+- ❤️ **Favorites**: Save and manage favorite drinks with persistent state logic.
+- 🛒 **Cart**: Add items to cart and proceed to checkout.
+- ⚙️ **Settings Page**: Manage account, device preferences, payment methods, and view history.
+- 📜 **History Page**: Track past orders and interactions.
+- 🌙 **Dark Mode & Notifications**: Toggle device preferences.
+- 💳 **Payment Options**: Add E-Wallet or Card Number.
+- 📱 **Responsive UI**: Designed for mobile devices with cozy, emotionally resonant visuals.
+
+🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Loueyme18/coffee_finals2.git
+
+   cd coffee-final
+
+   flutter pub get
+
+   flutter run
+
+👩‍🎓 Student Information
+Name: Louise Angel Palulan
+Student ID: 423002600
+Course: PC16 Mobile Development
+
+Name: Hikherrizy Moran
+Student ID: 423002075
+Course: PC16 Mobile Development
+
+Name: Louise Angel Palulan
+Student ID: 423001667
+Course: PC16 Mobile Development
