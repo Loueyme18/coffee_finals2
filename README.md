@@ -34,6 +34,7 @@ Users can browse drinks, add favorites, manage their cart, and customize setting
    flutter run
 
 👩‍🎓 Student Information
+
 Name: Louise Angel Palulan
 Student ID: 423002600
 Course: PC16 Mobile Development
